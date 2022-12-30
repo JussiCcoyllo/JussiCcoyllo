@@ -1,2 +1,1 @@
-![JussiCcoyllo](https://user-images.githubusercontent.com/46483286/210111577-012e7eef-fd9c-4a15-9ef5-66eb605b6335.png)
-<p align="center">Java is your best choice</p>
+![JussiCcoyllo](https://user-images.githubusercontent.com/46483286/210114432-cfc10983-0ce5-46be-a6f8-07bffc84051f.png)
