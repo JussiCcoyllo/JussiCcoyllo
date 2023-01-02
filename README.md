@@ -10,3 +10,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown"  alt="MD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+&nbsp;<div align="center">
+  
+ [![Linkedin](https://img.shields.io/badge/linked-in-blue)](https://www.linkedin.com/in/jussi-ccoyllo)
+ [![E-Mail](https://img.shields.io/badge/email-contact-blue)](mailto:jussi.ccoyllo@gmail.com)
+  
+</div>
