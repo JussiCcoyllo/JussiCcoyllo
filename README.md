@@ -13,7 +13,7 @@
 
 &nbsp;<div align="center">
   
- [![Linkedin](https://img.shields.io/badge/linked-in-blue)](https://www.linkedin.com/in/jussi-ccoyllo)
- [![E-Mail](https://img.shields.io/badge/email-contact-blue)](mailto:jussi.ccoyllo@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/linked-in-blue)](https://www.linkedin.com/in/jussi-ccoyllo target="_blank" rel="noopener noreferrer")
+ [![E-Mail](https://img.shields.io/badge/email-contact-blue)](mailto:jussi.ccoyllo@gmail.com target="_blank" rel="noopener noreferrer")
   
 </div>
